@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-beacon-detector.git",
-    "baseUrl": "https://github.com/github_account/react-native-beacon-detector"
+    "url": "git+https://github.com/ehdgus094/react-native-beacon-detector.git",
+    "baseUrl": "https://github.com/ehdgus094/react-native-beacon-detector"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "DongHyunKo",
+    "email": "ehdgus094@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
